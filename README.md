@@ -1,7 +1,7 @@
 - Full profile details to follow soon!
 
 - 👋 Hi, I’m Geoff
-- 👀 I’m interested in C/C++ Embedded systems, Elctronics, HTML, CSS, PHP, MySQL, etc... [everything if i can get my hands on a challenge.]
+- 👀 I’m interested in C/C++ Embedded systems, Elctronics, & dabble with HTML, CSS, PHP, MySQL.
 - 🌱 I’m currently learning: a lot lol
 - 💞️ I’m looking to collaborate on: details to follow
 - 📫 How to reach me: g.s.lord@hotmail.com
