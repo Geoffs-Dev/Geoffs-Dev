@@ -2,8 +2,7 @@
 
 - 👋 Hi, I’m Geoff
 - 👀 I’m interested in C/C++ Embedded systems, Elctronics, & dabble with HTML, CSS, PHP, MySQL.
-- 🌱 I’m currently learning: a lot lol
-- 💞️ I’m looking to collaborate on: details to follow
+- 🌱 I’m currently hoping to be accepted by NetMatters: Web development and more...
 - 📫 How to reach me: g.s.lord@hotmail.com
 
 <!---
