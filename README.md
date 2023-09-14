@@ -3,7 +3,8 @@ PHP and MySQL i havn't touched for years.
 
 Qualifications & Experiences not all relavent to coding but it's part of my lifes history:
 - 🌱 Completed successfully "Principles of Cyber Security" Level 2
-- 🌱 Currently been working through "Programming Principles and Practice using C++" by Bjarne Stroustrup 
+- 🌱 Currently been working through "Programming Principles and Practice using C++" by Bjarne Stroustrup
+- 🌱 Embedded Systems development: Tivea C Series TM4C123G, (a true novice, but i am enjoying the learning curve) 
 - 🌱 Access to Art and Design
 - 🌱 City and Guilds 706/1 (Cook)
 
